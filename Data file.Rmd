@@ -1,0 +1,16 @@
+---
+title: "Personal Data"
+author: "Teo Moy"
+date: "2025-02-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+```
+```{r}
+read.csv("all_car_adverts.csv")
+```
+```{r}
+
+```
+
