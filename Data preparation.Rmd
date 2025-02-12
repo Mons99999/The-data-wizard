@@ -10,7 +10,3 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## R Markdown
-hello boys i am commiting
-# yoyoyoy test 2
-
-#Teo Was here !!
